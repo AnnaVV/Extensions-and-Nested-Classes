@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Static\Static\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Static\Static\bin\Debug\Static.exe.config
+D:\Softheme_Internship\Static\Static\bin\Debug\Static.exe
+D:\Softheme_Internship\Static\Static\bin\Debug\Static.pdb
+D:\Softheme_Internship\Static\Static\obj\Debug\Static.exe
+D:\Softheme_Internship\Static\Static\obj\Debug\Static.pdb
